@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![game](dice.PNG)
+<img src="dice.PNG" alt="dice_game" width="200"/>
 
 This is the dice game Hi-Lo. For more information on it and if you'd like to play it, visit [my website.](https://purplefootsteps.co.uk/dice-game/)
 
